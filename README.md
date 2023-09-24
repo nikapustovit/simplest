@@ -1,2 +1,3 @@
 # simplest
-First steps with GitHub
+## My first github project
+First **steps** with GitHub
